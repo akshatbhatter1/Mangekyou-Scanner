@@ -40,9 +40,9 @@ Description about Script:
 
 Credits:
      
-     I would like to thank "violent python" book, null bytes, hackingvision and furas.Who helped me in this script
+     I would like to thank "violent python" book, null bytes, hackingvision and furas.pl, Who helped me in this script
      
-     Information of People who help me:
+     Information of People who helped me:
      
      1. Violent Python Cookbook Penetration Engineers
      
