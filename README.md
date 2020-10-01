@@ -40,19 +40,20 @@ Description about Script:
 
 Credits:
      
-     I like to thanks violent python book, null bytes, hackingvision and furas.pl who help me in this script
+     I would like to thank "violent python" book, null bytes, hackingvision and furas.Who helped me in this script
      
      Information of People who help me:
      
      1. Violent Python Cookbook Penetration Engineers
+     
      2. Hacking vision:
        website: www.hackingvision.com
-       I suggest to all once visit the hacking vision website. That website is best for pentester and programmers. I learn many things from that website
+       I suggest you all to visit the website. It is best for pentester and programmers. I learnt many things from this website
      3. Null bytes:
        website: www.null-byte.wonderhowto.com
-       I suggest to all once visit the hacking vision website. That website is best for pentester and programmers.
+       I suggest you all to visit the website. It is best for pentester and programmers. I learnt many things from this website
      4. furas.pl
        website: www.blog.furas.pl
-       website is in work and furas.pl help me alot in this script he is nice programmer and he is working on his blog at now he going to start tutorial of programming i will suggest you to visit his blog.
+       website is in work and furas.pl helped me alot in this script. He is good programmer and is working on his blog at present he is going to start a tutorial on programming i suggest you to visit his blog.
        
-       Once time again i thanks to 4 of you to help me.
+       Once again i thank to all 4 of you to help me.
